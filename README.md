@@ -1,2 +1,2 @@
-# Laptop-Shop
-Built a laptop shop using Python which reads and fetches data through a text file and showcases into the system, enabling users to buy and sell laptops that are available or needed in bulk or single quantity.
+# Techno Property Nepal - Land Rental System
+A Python-based land rental management system that handles property rentals, returns, billing, and inventory management through a command-line interface. The system manages land properties across different cities in Nepal with automated availability tracking and invoice generation.
